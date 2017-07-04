@@ -12,7 +12,9 @@
 4使用（PD或visio）画出你所实现的系统领域类图和至少两个关键场景的顺序图。
 
 ###领域类图
-![领域类图](https://raw.githubusercontent.com/Ericwst/SRSNEW/master/%E6%98%BE%E7%A4%BA%E8%AF%BE%E6%97%B6%E8%AE%A1%E5%88%92.jpg "title")
+![领域类图]<img src="类图.jpg">
+
+
 ###关键顺序图
 ###选课
 ![选课](https://raw.githubusercontent.com/Ericwst/SRSNEW/master/%E9%80%89%E8%AF%BE.jpg "选课")
