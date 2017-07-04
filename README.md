@@ -7,7 +7,7 @@
   本Github运用面向对象的方式，并采用Struts2+Hibernate+Spring4的方式进行整合开发，构建了选课SRS系统。
   
 3根据书中示例类图(P430)构建系统领域模型并实现测试
-![测试]( https://raw.githubusercontent.com/Ericwst/SRSNEW/master/picture/10.jpg "title")
+!<img src="10.jpg">
 
 4使用（PD或visio）画出你所实现的系统领域类图和至少两个关键场景的顺序图。
 
