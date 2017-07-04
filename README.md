@@ -4,7 +4,7 @@
 2使用OOA&D构建SRS系统。
 
 ![整体文件结构]( https://raw.githubusercontent.com/Ericwst/SRSNEW/master/picture/4.jpg "title")
-  本Github运用面向对象的方式，并采用Struts2+Hibernate+Spring4的方式进行整合开发，构建了选课SRS系统。
+ </br> 采用Struts2+Hibernate+Spring4的方式进行整合开发，构建了选课SRS系统。
   
 3根据书中示例类图(P430)构建系统领域模型并实现测试
 !<img src="10.jpg">
